@@ -1,0 +1,49 @@
+{
+  "products":[
+    {
+      "id": 1001,
+      "title": "진라면 매운맛",
+      "description": "고춧가루 베이스의 매운 라면",
+      "price": 1300,
+      "image": "assets/images/jin_hot.jpg",
+      "availableInventory": 10,
+      "rating": 1
+    },
+    {
+      "id": 1002,
+      "title": "진라면 순한맛",
+      "description": "간장 베이스의 순한 라면",
+      "price": 1300,
+      "image": "assets/images/jin_soft.jpg",
+      "availableInventory": 7,
+      "rating": 1
+    },
+    {
+      "id": 1003,
+      "title": "신라면",
+      "description": "사나이 울리는 매운 라면",
+      "price": 1200,
+      "image": "assets/images/sin.jpg",
+      "availableInventory": 9,
+      "rating": 4
+    },
+    {
+      "id": 1004,
+      "title": "안성탕면",
+      "description": "된장 베이스의 구수한 라면",
+      "price": 900,
+      "image": "assets/images/ansung.jpg",
+      "availableInventory": 11,
+      "rating": 5
+    },
+    {
+      "id": 1005,
+      "title": "너구리",
+      "description": "너구리처럼 오동통한 라면",
+      "price": 1100,
+      "image": "assets/images/nuguri.jpg",
+      "availableInventory": 25,
+      "rating": 1
+    }
+  ]
+}
